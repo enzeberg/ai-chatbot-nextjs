@@ -1,6 +1,6 @@
  # AI Chatbot with Next.js
 
-一个基于 Next.js 和 Fireworks AI 的智能聊天机器人应用。
+一个基于 Next.js 15 和 Fireworks AI 的智能聊天机器人应用。
 
 ## 功能特性
 
@@ -15,7 +15,7 @@
 ### 1. 克隆项目
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/enzeberg/ai-chatbot-nextjs.git
 cd ai-chatbot-nextjs
 ```
 
